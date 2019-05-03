@@ -85,5 +85,7 @@ var_dump( $users->insertupdate([
 
 //var_dump($users->delete($us ));
 
+//Get All data 
+
 
 
