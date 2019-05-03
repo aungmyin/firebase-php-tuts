@@ -1,0 +1,17 @@
+{
+    "name": "aungmyin/firebase",
+    "description": "PHP Tutorial",
+    "type": "prroject",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Author System",
+            "email": "aungmyin@eramyanmar.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "^4.18",
+        "php": ">= 7.0.2"
+    }
+}
